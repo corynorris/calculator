@@ -1,4 +1,4 @@
-import Calculator from '../src/application';
+import Calculator from '../src/application2';
 import { assert, eql, expect, should } from 'chai';
 
 should();
